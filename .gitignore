@@ -1,3 +1,6 @@
 .venv
 failed_tickers.txt
 successful_tickers.txt
+yfinance_data
+tickers_sp500.csv
+rs_full_list.csv
