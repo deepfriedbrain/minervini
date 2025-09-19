@@ -4,3 +4,5 @@ successful_tickers.txt
 yfinance_data
 tickers_sp500.csv
 rs_full_list.csv
+*Failed*.csv
+sp500*.csv
